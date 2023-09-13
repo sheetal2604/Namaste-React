@@ -1,0 +1,16 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "Namaste React",
+  "scripts": {
+    "test": "Jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  },
+  "browsersList":[
+    "Last 2 version"
+  ]
+}
