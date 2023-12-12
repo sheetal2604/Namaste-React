@@ -1,0 +1,865 @@
+[
+    {
+        "info": {
+            "id": "237669",
+            "name": "McDonald's",
+            "cloudinaryImageId": "bb7ae131544c7d37e10fc5faf76f09d6",
+            "locality": "Hinjewadi",
+            "areaName": "Hinjewadi",
+            "costForTwo": "₹400 for two",
+            "cuisines": [
+                "Burgers",
+                "Beverages",
+                "Cafe",
+                "Desserts"
+            ],
+            "avgRating": 4.3,
+            "feeDetails": {
+                "restaurantId": "237669",
+                "fees": [
+                    {
+                        "name": "BASE_DISTANCE",
+                        "fee": 3300
+                    },
+                    {
+                        "name": "BASE_TIME"
+                    },
+                    {
+                        "name": "ANCILLARY_SURGE_FEE"
+                    }
+                ],
+                "totalFee": 3300
+            },
+            "parentId": "630",
+            "avgRatingString": "4.3",
+            "totalRatingsString": "1K+",
+            "sla": {
+                "deliveryTime": 18,
+                "lastMileTravel": 1.5,
+                "serviceability": "SERVICEABLE",
+                "slaString": "18 mins",
+                "lastMileTravelString": "1.5 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2023-11-04 00:00:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹150 OFF",
+                "subHeader": "ABOVE ₹349",
+                "discountTag": "FLAT DEAL"
+            },
+            "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {}
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
+        },
+        "analytics": {
+            "context": "seo-data-aec3c455-2492-4fe4-b0c6-363b65235d27"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/mcdonalds-hinjewadi-pune-237669",
+            "text": "RESTAURANT_MENU",
+            "type": "WEBLINK"
+        },
+        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+        "info": {
+            "id": "89140",
+            "name": "KFC",
+            "cloudinaryImageId": "56c9ab92bd79745fd152a30fa2525426",
+            "locality": "Wakad Road",
+            "areaName": "Hinjawadi",
+            "costForTwo": "₹400 for two",
+            "cuisines": [
+                "Burgers",
+                "Biryani",
+                "American",
+                "Snacks",
+                "Fast Food"
+            ],
+            "avgRating": 4.1,
+            "feeDetails": {
+                "restaurantId": "89140",
+                "fees": [
+                    {
+                        "name": "BASE_DISTANCE",
+                        "fee": 4800
+                    },
+                    {
+                        "name": "BASE_TIME"
+                    },
+                    {
+                        "name": "ANCILLARY_SURGE_FEE"
+                    }
+                ],
+                "totalFee": 4800
+            },
+            "parentId": "547",
+            "avgRatingString": "4.1",
+            "totalRatingsString": "10K+",
+            "sla": {
+                "deliveryTime": 21,
+                "lastMileTravel": 3,
+                "serviceability": "SERVICEABLE",
+                "slaString": "21 mins",
+                "lastMileTravelString": "3.0 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2023-11-04 01:00:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹150 OFF",
+                "subHeader": "ABOVE ₹349",
+                "discountTag": "FLAT DEAL"
+            },
+            "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {}
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
+        },
+        "analytics": {
+            "context": "seo-data-aec3c455-2492-4fe4-b0c6-363b65235d27"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/kfc-wakad-road-hinjawadi-pune-89140",
+            "text": "RESTAURANT_MENU",
+            "type": "WEBLINK"
+        },
+        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+        "info": {
+            "id": "441447",
+            "name": "Burger King",
+            "cloudinaryImageId": "e33e1d3ba7d6b2bb0d45e1001b731fcf",
+            "locality": "Suratwala",
+            "areaName": "Hinjewadi",
+            "costForTwo": "₹350 for two",
+            "cuisines": [
+                "Burgers",
+                "American"
+            ],
+            "avgRating": 4.1,
+            "feeDetails": {
+                "restaurantId": "441447",
+                "fees": [
+                    {
+                        "name": "BASE_DISTANCE",
+                        "fee": 4300
+                    },
+                    {
+                        "name": "BASE_TIME"
+                    },
+                    {
+                        "name": "ANCILLARY_SURGE_FEE"
+                    }
+                ],
+                "totalFee": 4300
+            },
+            "parentId": "166",
+            "avgRatingString": "4.1",
+            "totalRatingsString": "5K+",
+            "sla": {
+                "deliveryTime": 26,
+                "lastMileTravel": 3,
+                "serviceability": "SERVICEABLE",
+                "slaString": "26 mins",
+                "lastMileTravelString": "3.0 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2023-11-04 03:40:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹150 OFF",
+                "subHeader": "ABOVE ₹349",
+                "discountTag": "FLAT DEAL"
+            },
+            "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {}
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
+        },
+        "analytics": {
+            "context": "seo-data-aec3c455-2492-4fe4-b0c6-363b65235d27"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/burger-king-suratwala-hinjewadi-pune-441447",
+            "text": "RESTAURANT_MENU",
+            "type": "WEBLINK"
+        },
+        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+        "info": {
+            "id": "217017",
+            "name": "Domino's Pizza",
+            "cloudinaryImageId": "daa29xyl4yei1vo4b9ee",
+            "locality": "1st Phase",
+            "areaName": "Hinjawadi",
+            "costForTwo": "₹400 for two",
+            "cuisines": [
+                "Pizzas",
+                "Italian",
+                "Pastas",
+                "Desserts"
+            ],
+            "avgRating": 4.1,
+            "feeDetails": {
+                "restaurantId": "217017",
+                "fees": [
+                    {
+                        "name": "BASE_DISTANCE",
+                        "fee": 3500
+                    },
+                    {
+                        "name": "BASE_TIME"
+                    },
+                    {
+                        "name": "ANCILLARY_SURGE_FEE"
+                    }
+                ],
+                "totalFee": 3500
+            },
+            "parentId": "2456",
+            "avgRatingString": "4.1",
+            "totalRatingsString": "1K+",
+            "sla": {
+                "deliveryTime": 25,
+                "serviceability": "SERVICEABLE",
+                "slaString": "25 mins",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2023-11-03 22:59:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹150 OFF",
+                "subHeader": "ABOVE ₹349",
+                "discountTag": "FLAT DEAL"
+            },
+            "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {}
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
+        },
+        "analytics": {
+            "context": "seo-data-aec3c455-2492-4fe4-b0c6-363b65235d27"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/dominos-pizza-1st-phase-hinjawadi-pune-217017",
+            "text": "RESTAURANT_MENU",
+            "type": "WEBLINK"
+        },
+        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+        "info": {
+            "id": "496036",
+            "name": "Great Indian Khichdi by EatFit",
+            "cloudinaryImageId": "6e44fd7f1e5cd9967edfe47c10247671",
+            "locality": "Wakd road",
+            "areaName": "Hinjawadi",
+            "costForTwo": "₹200 for two",
+            "cuisines": [
+                "Home Food",
+                "Indian",
+                "North Indian",
+                "Healthy Food",
+                "Snacks",
+                "Desserts",
+                "Rajasthani",
+                "South Indian",
+                "Maharashtrian",
+                "Sweets"
+            ],
+            "avgRating": 4.2,
+            "veg": true,
+            "feeDetails": {
+                "restaurantId": "496036",
+                "fees": [
+                    {
+                        "name": "BASE_DISTANCE",
+                        "fee": 3300
+                    },
+                    {
+                        "name": "BASE_TIME"
+                    },
+                    {
+                        "name": "ANCILLARY_SURGE_FEE"
+                    }
+                ],
+                "totalFee": 3300
+            },
+            "parentId": "319582",
+            "avgRatingString": "4.2",
+            "totalRatingsString": "1K+",
+            "sla": {
+                "deliveryTime": 18,
+                "lastMileTravel": 2,
+                "serviceability": "SERVICEABLE",
+                "slaString": "18 mins",
+                "lastMileTravelString": "2.0 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2023-11-03 23:59:00",
+                "opened": true
+            },
+            "badges": {
+                "imageBadges": [
+                    {
+                        "imageId": "v1695133679/badges/Pure_Veg111.png",
+                        "description": "pureveg"
+                    }
+                ],
+                "textExtendedBadges": [
+                    {
+                        "iconId": "guiltfree/GF_Logo_android_3x",
+                        "shortDescription": "options available",
+                        "fontColor": "#7E808C"
+                    }
+                ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "pureveg",
+                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                }
+                            }
+                        ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "",
+                                    "fontColor": "#7E808C",
+                                    "iconId": "guiltfree/GF_Logo_android_3x",
+                                    "shortDescription": "options available"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹150 OFF",
+                "subHeader": "ABOVE ₹349",
+                "discountTag": "FLAT DEAL"
+            },
+            "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {}
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
+        },
+        "analytics": {
+            "context": "seo-data-aec3c455-2492-4fe4-b0c6-363b65235d27"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/great-indian-khichdi-by-eatfit-wakd-road-hinjawadi-pune-496036",
+            "text": "RESTAURANT_MENU",
+            "type": "WEBLINK"
+        },
+        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+        "info": {
+            "id": "647335",
+            "name": "Madrasi Raja",
+            "cloudinaryImageId": "47e57b7f875cb5387d800d9d8f33641a",
+            "locality": "1st Phase",
+            "areaName": "Hinjawadi",
+            "costForTwo": "₹250 for two",
+            "cuisines": [
+                "South Indian",
+                "Snacks"
+            ],
+            "avgRating": 4.2,
+            "veg": true,
+            "feeDetails": {
+                "restaurantId": "647335",
+                "fees": [
+                    {
+                        "name": "BASE_DISTANCE",
+                        "fee": 3500
+                    },
+                    {
+                        "name": "BASE_TIME"
+                    },
+                    {
+                        "name": "ANCILLARY_SURGE_FEE"
+                    }
+                ],
+                "totalFee": 3500
+            },
+            "parentId": "390223",
+            "avgRatingString": "4.2",
+            "totalRatingsString": "100+",
+            "sla": {
+                "deliveryTime": 26,
+                "lastMileTravel": 1.9,
+                "serviceability": "SERVICEABLE",
+                "slaString": "26 mins",
+                "lastMileTravelString": "1.9 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2023-11-03 23:30:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹150 OFF",
+                "subHeader": "ABOVE ₹349",
+                "discountTag": "FLAT DEAL"
+            },
+            "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {}
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
+        },
+        "analytics": {
+            "context": "seo-data-aec3c455-2492-4fe4-b0c6-363b65235d27"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/madrasi-raja-1st-phase-hinjawadi-pune-647335",
+            "text": "RESTAURANT_MENU",
+            "type": "WEBLINK"
+        },
+        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+        "info": {
+            "id": "57347",
+            "name": "Reddy's Biryani Zone",
+            "cloudinaryImageId": "ytwo1n5zaa7nplsnsryl",
+            "locality": "Marunji Road",
+            "areaName": "Hinjawadi",
+            "costForTwo": "₹400 for two",
+            "cuisines": [
+                "Biryani",
+                "Mughlai",
+                "North Indian"
+            ],
+            "avgRating": 3.9,
+            "feeDetails": {
+                "restaurantId": "57347",
+                "fees": [
+                    {
+                        "name": "BASE_DISTANCE",
+                        "fee": 3500
+                    },
+                    {
+                        "name": "BASE_TIME"
+                    },
+                    {
+                        "name": "ANCILLARY_SURGE_FEE"
+                    }
+                ],
+                "totalFee": 3500
+            },
+            "parentId": "11490",
+            "avgRatingString": "3.9",
+            "totalRatingsString": "10K+",
+            "sla": {
+                "deliveryTime": 20,
+                "lastMileTravel": 2.5,
+                "serviceability": "SERVICEABLE",
+                "slaString": "20 mins",
+                "lastMileTravelString": "2.5 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2023-11-03 23:59:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹150 OFF",
+                "subHeader": "ABOVE ₹349",
+                "discountTag": "FLAT DEAL"
+            },
+            "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {}
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
+        },
+        "analytics": {
+            "context": "seo-data-aec3c455-2492-4fe4-b0c6-363b65235d27"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/reddys-biryani-zone-marunji-road-hinjawadi-pune-57347",
+            "text": "RESTAURANT_MENU",
+            "type": "WEBLINK"
+        },
+        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+        "info": {
+            "id": "40619",
+            "name": "Kinara's Maratha Darbar",
+            "cloudinaryImageId": "nkcpt3atnddblek0nibm",
+            "locality": "Hinjawadi",
+            "areaName": "Kothrud",
+            "costForTwo": "₹400 for two",
+            "cuisines": [
+                "Biryani",
+                "South Indian",
+                "North Indian"
+            ],
+            "avgRating": 4.1,
+            "feeDetails": {
+                "restaurantId": "40619",
+                "fees": [
+                    {
+                        "name": "BASE_DISTANCE",
+                        "fee": 3500
+                    },
+                    {
+                        "name": "BASE_TIME"
+                    },
+                    {
+                        "name": "ANCILLARY_SURGE_FEE"
+                    }
+                ],
+                "totalFee": 3500
+            },
+            "parentId": "14096",
+            "avgRatingString": "4.1",
+            "totalRatingsString": "5K+",
+            "sla": {
+                "deliveryTime": 36,
+                "lastMileTravel": 2.3,
+                "serviceability": "SERVICEABLE",
+                "slaString": "36 mins",
+                "lastMileTravelString": "2.3 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2023-11-03 16:00:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹150 OFF",
+                "subHeader": "ABOVE ₹349",
+                "discountTag": "FLAT DEAL"
+            },
+            "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {}
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
+        },
+        "analytics": {
+            "context": "seo-data-aec3c455-2492-4fe4-b0c6-363b65235d27"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/kinaras-maratha-darbar-hinjawadi-kothrud-pune-40619",
+            "text": "RESTAURANT_MENU",
+            "type": "WEBLINK"
+        },
+        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+        "info": {
+            "id": "19902",
+            "name": "Radha Krishna Pure Veg(Hinjewadi)",
+            "cloudinaryImageId": "l7va77zuwafqa20wn37h",
+            "locality": "Hinjewadi",
+            "areaName": "Hinjawadi",
+            "costForTwo": "₹300 for two",
+            "cuisines": [
+                "North Indian",
+                "Chinese",
+                "South Indian",
+                "Punjabi",
+                "Andhra",
+                "Lucknowi",
+                "Hyderabadi",
+                "Indian",
+                "Pan-Asian",
+                "Biryani",
+                "Kebabs",
+                "Home Food",
+                "Bengali",
+                "Mangalorean"
+            ],
+            "avgRating": 4,
+            "veg": true,
+            "feeDetails": {
+                "restaurantId": "19902",
+                "fees": [
+                    {
+                        "name": "BASE_DISTANCE",
+                        "fee": 4300
+                    },
+                    {
+                        "name": "BASE_TIME"
+                    },
+                    {
+                        "name": "ANCILLARY_SURGE_FEE"
+                    }
+                ],
+                "totalFee": 4300
+            },
+            "parentId": "164164",
+            "avgRatingString": "4.0",
+            "totalRatingsString": "10K+",
+            "sla": {
+                "deliveryTime": 26,
+                "lastMileTravel": 3.9,
+                "serviceability": "SERVICEABLE",
+                "slaString": "26 mins",
+                "lastMileTravelString": "3.9 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2023-11-04 00:00:00",
+                "opened": true
+            },
+            "badges": {
+                "imageBadges": [
+                    {
+                        "imageId": "v1695133679/badges/Pure_Veg111.png",
+                        "description": "pureveg"
+                    }
+                ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "pureveg",
+                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                }
+                            }
+                        ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹150 OFF",
+                "subHeader": "ABOVE ₹349",
+                "discountTag": "FLAT DEAL"
+            },
+            "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {}
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
+        },
+        "analytics": {
+            "context": "seo-data-aec3c455-2492-4fe4-b0c6-363b65235d27"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/radha-krishna-pure-veg-hinjewadi-hinjewadi-hinjawadi-pune-19902",
+            "text": "RESTAURANT_MENU",
+            "type": "WEBLINK"
+        },
+        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    }
+]
